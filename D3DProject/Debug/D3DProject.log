@@ -1,0 +1,21 @@
+﻿  D3DProject.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DInputClass.h(3,1): warning C4005: “DIRECTINPUT_VERSION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : 参见“DIRECTINPUT_VERSION”的前一个定义
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(372,51): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(580,66): warning C4474: swprintf_s: 格式字符串中传递的参数太多
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(580,66): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(600,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(604,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  D3DTerrainClass.cpp
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(34,39): warning C4244: “参数”: 从“std::streamoff”转换到“const unsigned int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(204,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(204,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(205,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(205,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(206,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(206,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(207,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.cpp(207,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  D3DProject.vcxproj -> C:\Users\VON\Desktop\D3DProject\Debug\D3DProject.exe

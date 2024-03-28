@@ -1,0 +1,13 @@
+﻿  D3DCameraClass.cpp
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DCameraClass.h(3,9): fatal  error C1083: 无法打开包括文件: “d3dx9.h”: No such file or directory
+  D3DInputClass.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DInputClass.h(3,1): warning C4005: “DIRECTINPUT_VERSION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dinput.h(48,1): message : 参见“DIRECTINPUT_VERSION”的前一个定义
+  D3DProject.cpp
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DProject.cpp(5,9): fatal  error C1083: 无法打开包括文件: “d3dx9.h”: No such file or directory
+  D3DTerrainClass.cpp
+C:\Users\VON\Desktop\D3DProject\D3DProject\D3DTerrainClass.h(3,9): fatal  error C1083: 无法打开包括文件: “d3dx9.h”: No such file or directory
+  TerrainClass.cpp
+c1xx : fatal  error C1083: 无法打开源文件: “TerrainClass.cpp”: No such file or directory
+  正在生成代码...
